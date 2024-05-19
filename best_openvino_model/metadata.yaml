@@ -1,0 +1,114 @@
+description: Ultralytics best model trained on C:\Users\andre\OneDrive\Desktop\YOLO-Supervision\YOLO-Supervision\datasets\data.yaml
+author: Ultralytics
+date: '2024-05-19T07:19:20.668987'
+version: 8.2.13
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 1280
+- 1280
+names:
+  0: Apple-Cider-Vinegar
+  1: Asian-Mix-Packet
+  2: Asian-Sauce
+  3: BBQ-Sauce
+  4: Baking-Powder
+  5: Beans
+  6: Beef-Soup
+  7: Biscoff-Spread
+  8: Bread-Crumbs
+  9: Canned-Corn
+  10: Canned-Green-Beans
+  11: Canned-Mango
+  12: Canned-Puree-Tomatoes
+  13: Canned-Salmon
+  14: Canned-Tuna
+  15: Cereal
+  16: Cheese
+  17: Chipotle-Sauce
+  18: Chocolate-Mango
+  19: Chocolate-bar
+  20: Coconut-Milk
+  21: Condensed-Milk
+  22: Cookies
+  23: Corn-Starch
+  24: Cranberry-Sauce
+  25: Cream
+  26: Dried-Goods
+  27: Egg
+  28: Enchilada-Sauce
+  29: Evaporated-Milk
+  30: Fish-Sauce
+  31: Fruit-Cocktail
+  32: Garlic
+  33: Gatorade
+  34: Ginger
+  35: Green-Chili
+  36: Gulaman
+  37: Halo-Halo-Ingredient
+  38: Herbs-Seasoning
+  39: Honey
+  40: Honey-and-Ginger-Tea
+  41: Hot-Sauce
+  42: Instant-Noodle
+  43: Jackfruit-Syrup
+  44: Japchae-Sauce
+  45: Jufran
+  46: Ketchup
+  47: Kewpie-Mayonaise
+  48: Knorr-Seasoning
+  49: KoolAid
+  50: Loaf-Bread
+  51: Mang-Tomas
+  52: Mash-Potato
+  53: Mayo
+  54: Milk
+  55: MoguMogu
+  56: Ms.-Dash
+  57: Mushroom-Soup
+  58: Mustard
+  59: Noodle
+  60: Nutellla
+  61: Nuts
+  62: Oatmeal
+  63: Oil
+  64: Onions
+  65: Orange-Juice
+  66: Oreo
+  67: Oyster-Sauce
+  68: Pancake
+  69: Pandan-Jelly
+  70: Parmesan-Cheese
+  71: Pasta-Elbow
+  72: Pasta-Noodles-Spaghetti
+  73: Peanut-Butter
+  74: Pepper
+  75: Pineapple-Juice
+  76: Polvoron
+  77: Protein-Bar-Drink
+  78: Rice
+  79: Ritz
+  80: Sardines
+  81: Sauce
+  82: Sesame-Seed
+  83: Snack
+  84: Soda
+  85: Soy-Sauce
+  86: Spaghetti-Sauce
+  87: Sparkling-Water
+  88: Spread
+  89: Steak-and-Potato-Soup
+  90: Sweat-Peas
+  91: Sweet Chili Sauce
+  92: Tea
+  93: Tomato-Sauce
+  94: Tortilla-Chips
+  95: Trail-Mix
+  96: Vienna-Sausage
+  97: Vinegar
+  98: Water
+  99: Wine
+  100: can
