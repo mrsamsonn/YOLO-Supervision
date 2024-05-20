@@ -1,0 +1,87 @@
+description: Ultralytics pantryv2 model trained on C:\Users\andre\OneDrive\Desktop\YOLO-Supervision\YOLO-Supervision\datasets\data.yaml
+author: Ultralytics
+date: '2024-05-19T19:12:45.959849'
+version: 8.2.13
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 1280
+- 1280
+names:
+  0: Apple-Cider-Vinegar
+  1: Asian-Mix-Packet
+  2: Asian-Sauce
+  3: BBQ-Sauce
+  4: Baking-Powder
+  5: Beans
+  6: Beef-Soup
+  7: Biscoff-Spread
+  8: Bread-Crumbs
+  9: Canned-Corn
+  10: Canned-Green-Beans
+  11: Canned-Mango
+  12: Canned-Puree-Tomatoes
+  13: Canned-Tuna
+  14: Cereal
+  15: Chipotle-Sauce
+  16: Coconut-Milk
+  17: Condensed-Milk
+  18: Corn-Starch
+  19: Cranberry-Sauce
+  20: Cream
+  21: Egg
+  22: Enchilada-Sauce
+  23: Evaporated-Milk
+  24: Fish-Sauce
+  25: Fruit-Cocktail
+  26: Garlic
+  27: Gatorade
+  28: Green-Chili
+  29: Gulaman
+  30: Halo-Halo-Ingredient
+  31: Herbs-Seasoning
+  32: Honey-and-Ginger-Tea
+  33: Japchae-Sauce
+  34: Jufran
+  35: Kewpie-Mayonaise
+  36: Knorr-Seasoning
+  37: KoolAid
+  38: Loaf-Bread
+  39: Mang-Tomas
+  40: Mash-Potato
+  41: Mayo
+  42: Milk
+  43: Ms.-Dash
+  44: Mushroom-Soup
+  45: Mustard
+  46: Noodle
+  47: Nutellla
+  48: Oatmeal
+  49: Oil
+  50: Onions
+  51: Orange-Juice
+  52: Oreo
+  53: Pancake
+  54: Parmesan-Cheese
+  55: Pasta-Elbow
+  56: Pasta-Noodles-Spaghetti
+  57: Peanut-Butter
+  58: Pineapple-Juice
+  59: Protein-Bar-Drink
+  60: Rice
+  61: Sardines
+  62: Sauce
+  63: Soda
+  64: Soy-Sauce
+  65: Spaghetti-Sauce
+  66: Sparkling-Water
+  67: Spread
+  68: Steak-and-Potato-Soup
+  69: Tea
+  70: Tomato-Sauce
+  71: Vienna-Sausage
+  72: Vinegar
+  73: Wine
