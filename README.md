@@ -26,7 +26,7 @@ Here are a few YouTube Shorts that showcase the algorithm in action:
 
 ## Algorithm Explanation
 
-### 1. **Data Preparation**
+1. **Data Preparation**
 
 The first step involves preparing your custom dataset. The dataset needs to be annotated and split into training and validation sets. The `train_model.py` script handles this process, where you define the path to your dataset and the annotations format.
 
@@ -104,7 +104,7 @@ def track_objects(detections, previous_detections):
     return tracked_objects
 ```
 
-Setup Instructions
+## Setup Instructions
 
 Prerequisites
 	•	Python 3.x
@@ -149,7 +149,7 @@ The system outputs detection results as follows:
 	•	Class labels and confidence scores
 	•	Real-time tracking of detected objects
 
-Project Structure
+## Project Structure
 
 ```
 YOLO-Supervision/
@@ -162,7 +162,7 @@ YOLO-Supervision/
 └── data/                     # Directory for dataset
 ```
 
-Future Work
+## Future Work
 	•	Enhance Real-time Performance: Further optimizations for faster inference on low-end hardware.
 	•	Expand Dataset: Support for additional custom datasets for different object categories.
 	•	Advanced Detection Logic: Improve detection under various environmental conditions.
